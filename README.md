@@ -3,7 +3,7 @@
 this code uses *M5Stack Basic ESP32* and *Openweather API*. 
 It will print the weather forcast for the chosen location.
 
-#How to use
+# How to use
 1. You would first need to create an OpenWeather API account 
 2. generate API key (takes about 20min to 2hrs to process)
 3. replace the http://api.openweathermap.org/data/2.5/weather?q={yourCityName},{yourCountryInitial}&APPID={YourAPIKey}
@@ -13,7 +13,7 @@ It will print the weather forcast for the chosen location.
 
 
 
-##resources used: 
+## resources used: 
 OpenWeather:
 - https://home.openweathermap.org/
 Blog Post:
