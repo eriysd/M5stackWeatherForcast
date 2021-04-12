@@ -1,6 +1,6 @@
 # WeatherForcast by Arduino
 
-this code was uses **M5Stack ESP32** and **Openweather API**. 
+this code uses **M5Stack ESP32** and **Openweather API**. 
 It will print the weather forcast for the chosen location.
 
 # How to use
