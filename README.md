@@ -18,7 +18,4 @@ OpenWeather:
 https://home.openweathermap.org/  
 Blog Post:  
 https://techtutorialsx.com/2018/03/17/  
-Blog Post:  
-https://wak-tech.com/archives/797  
-Blog Post:  
-https://qiita.com/kz1017/items/09a8c2aef2ece60a6128
+
